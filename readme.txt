@@ -1,1 +1,1 @@
-Git is aversion control system
+Git is not aversion control system
